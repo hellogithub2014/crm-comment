@@ -8,6 +8,14 @@
 * 获取评论数
 * 回复功能
 
+**加载过程中**
+
+![Image text](https://github.com/hellogithub2014/crm-comment/raw/master/loading-skeleton.png)
+
+**加载完成**
+
+![Image text](https://github.com/hellogithub2014/crm-comment/raw/master/comment-list.png)
+
 # 依赖
 
 * jquery
