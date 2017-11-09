@@ -1,0 +1,147 @@
+.crm-comment-wrapper {
+    cursor: default;
+}
+
+.crm-comment-wrapper .nowrap {
+    white-space: nowrap;
+}
+
+.crm-comment-wrapper .indent {
+    padding-left: 3.333333333333332%;
+}
+
+.crm-comment-wrapper .color-999 {
+    color: #999;
+}
+
+.crm-comment-wrapper .back-color-f8f {
+    background-color: #f8f8f8;
+}
+
+.crm-comment-wrapper .f12 {
+    font-size: 12px;
+}
+
+.crm-comment-wrapper .padding10 {
+    padding: 10px;
+}
+
+.crm-comment-wrapper .margin0 {
+    margin: 0;
+}
+
+.crm-comment-wrapper .padding06 {
+    padding: 0 6px;
+}
+
+.crm-comment-wrapper .padding-right5 {
+    padding-right: 5px;
+}
+
+.crm-comment-wrapper .padding-left25 {
+    padding-left: 25px;
+}
+
+.crm-comment-wrapper .margin-bottom10 {
+    margin-bottom: 10px;
+}
+
+.crm-comment-wrapper .margin-top10 {
+    margin-top: 10px;
+}
+
+.crm-comment-wrapper .cursor-pointer {
+    cursor: pointer;
+}
+
+.crm-comment-wrapper .hide {
+    display: none;
+}
+
+.crm-comment-wrapper .skeleton {
+    background-color: rgba(231, 239, 245, 0.92);
+    width: 100%;
+    display: inline-block;
+    height: 18px;
+    vertical-align: text-bottom;
+}
+
+.crm-comment-wrapper .comment-row {
+    margin: 10px 0;
+}
+
+.crm-comment-wrapper .comment-row .comment-bubble {
+    background: url(/business/static/images/task-manage/comment-bubble.png) 0 center no-repeat;
+    background-size: 16px 16px;
+    padding-left: 25px;
+    background-position-y: 0;
+}
+
+.crm-comment-wrapper .comment-row .name {
+    color: #1696bf;
+}
+
+.crm-comment-wrapper .comment-row .row-left {
+    display: flex;
+    width: calc(100% - 100px);
+}
+
+.crm-comment-wrapper .comment-row .content {
+    padding-right: 27px;
+    width: 100%;
+    word-break: break-all;
+}
+
+.crm-comment-wrapper .comment-row .name-area {
+    padding-left: 25px;
+}
+
+.crm-comment-wrapper .comment-row .date,
+.crm-comment-wrapper .comment-row .name-area {
+    text-align: right
+}
+
+.crm-comment-wrapper .load-more-tip {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.crm-comment-wrapper .add-comment textarea {
+    min-height: 20px;
+    padding-top: 6px;
+    padding-left: 10px;
+    width: calc(100% - 110px);
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(227, 227, 227, 1);
+    border-radius: 2px;
+    text-align: left;
+}
+
+.crm-comment-wrapper .add-comment textarea::-webkit-input-placeholder {
+    color: #cde2ec;
+}
+
+.crm-comment-wrapper .add-comment textarea:-moz-placeholder {
+    color: #cde2ec;
+}
+
+.crm-comment-wrapper .add-comment textarea::-moz-placeholder {
+    color: #cde2ec;
+}
+
+.crm-comment-wrapper .add-comment textarea:-ms-textarea-placeholder {
+    color: #cde2ec;
+}
+
+.crm-comment-wrapper .add-comment button {
+    background: #1696bf;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    padding: 0 10px;
+    line-height: 28px;
+    font-size: 14px;
+    width: 70px;
+    height: 30px;
+    margin-left: 6px;
+}
